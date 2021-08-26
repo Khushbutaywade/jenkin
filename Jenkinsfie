@@ -8,11 +8,6 @@ pipeline {
                 
             }
         }
-        stage('Hello') {
-            steps {
-                echo 'Hel'
-                
-            }
-        }
+        
     }
 }
